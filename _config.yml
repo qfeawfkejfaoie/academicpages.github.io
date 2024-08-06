@@ -12,9 +12,9 @@ title                    : "Peng Xinglong / Site Title"
 title_separator          : "-"
 name                     : &name "Peng Xinglong"
 description              : &description "personal description"
-url                      : https://pengxinglong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://pengxl.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "pengxinglong/pengxinglong.github.io"
+repository               : "pengxl/pengxl.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -43,7 +43,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/qfeawfkejfaoie"
+  github           : "qfeawfkejfaoie"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
